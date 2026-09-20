@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+# YuNet model is auto-downloaded on first run
+models/*.onnx
+# generated outputs
+results/
